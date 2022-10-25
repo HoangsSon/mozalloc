@@ -1,0 +1,12 @@
+1A5710 + 1766
+1A5710 + 17C6
+
+1A6E76
+1A6ED6
+
+pre_proc: 1Bxxxx
+main:     1A6CF2
+          1A5710
+
+1A6B69
+1A6B87     edit flag
